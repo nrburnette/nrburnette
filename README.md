@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nrburnette
-- 👀 I’m a computer science major at SNHU.  
-- 🌱 I’m currently learning everything all at once all the time, and C++.
-- 💞️ I’m looking to collaborate on creative projects or life changing brilliant things.
+- 👀 I’m recently earned my Bachelor's of Computer Science.  
+- 🌱 I’m currently releasing an App for Android and Apple.
+- 💞️ I’m also working on my next book under Histria Books.
 - 📫 Reach me here!
 
 <!---
