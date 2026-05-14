@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nrburnette
-- 👀 I’m recently earned my Bachelor's of Computer Science.  
-- 🌱 I’m currently releasing an App for Android and Apple.
+- 👀 I recently earned my Bachelor's of Computer Science.  
+- 🌱 I’m currently releasing an App for Android and iOS.
 - 💞️ I’m also working on my next book under Histria Books.
 - 📫 Reach me here!
 
